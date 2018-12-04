@@ -13,7 +13,7 @@ Yea one thing to note that you need jpheonix's library attached to the project t
 
 ## Built With
 
-* [Java](https://www.java.com) - Langugae used
+* [Java](https://www.java.com) - Languagae used
 * [NetsBean](https://netbeans.org/) - IDE for Creating JAVA Programs
 * [JAVAFX](https://openjfx.io/) - Used for Interfacing UI
 
