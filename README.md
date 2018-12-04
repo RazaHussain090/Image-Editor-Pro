@@ -9,7 +9,7 @@ Paste it in your net beans saving directory folder and then open up the project 
 
 ### Prerequisites
 
-Yea one thing to note that you need javafx library attached to the project to start working and editing it further or running the program.
+Yea one thing to note that you need jpheonix's library attached to the project to start working and editing it further or running the program.
 
 ## Built With
 
