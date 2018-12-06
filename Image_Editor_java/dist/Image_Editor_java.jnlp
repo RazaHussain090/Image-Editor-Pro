@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Image_Editor_java.jnlp">
+  <information>
+    <title>Image_Editor_java</title>
+    <vendor>Raza</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Image_Editor_java.jar" size="19706" download="eager" />
+    <jar href="lib\jfoenix.jar" size="2185817" download="eager" />
+    <jar href="lib\opencv-2413.jar" size="452397" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Image_Editor_java" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="image_editor_java.ImageEditorUsingFX"  name="Image_Editor_java" />
+  <update check="always"/>
+</jnlp>
